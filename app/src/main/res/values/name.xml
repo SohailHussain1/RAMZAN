@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ques">
+        <item>Ar Rahmaan	 رحمٰن	الرحمٰن	انتہائی مہربان	The Most Gracious</item>
+        <item>Ar Raheem	 رحیم	الرَّحِيْم	انتہائی رحم کرنے والا	The Most Merciful</item>
+        <item>Al Malik	مالک	الْمَلِك	مالک، بادشاہ	The Owner, The King, The Ruler</item>
+        <item>Al Qudoos	قدوس	القُدُّوس	مقدس، پاک، عیبوں سے پاک	The Absolutely Pure, The most Holy, The Most sacred </item>
+        <item>As Salam	سلام	السَّلَام	سلامتی والا	Only provider of Peace</item>
+        <item>Al Momin	مومن	المُؤْمِن	ایمان عطاء کرنے والا، امن دینے والا	The One Who gives Emaan and Security</item>
+        <item>Al Muhaimin	مہیمن	المُهَيْمِن	محافظ	The Guardian, The Witness, The Overseer</item>
+        <item>Al Azeez	عزیز	العَزِیز	غالب، زبردست، غلبہ والا، عزت دینے والا	The All Mighty</item>
+        <item>Al Jabbaar	جبار	الجَبًار	زبردست	The Compeller, The Restorer</item>
+        <item>Al Mutaqabir	متکبر	المُتَکَبِر	بڑائی والا، بزرگی والا	TadasSupreme, The Majestic</item>
+    </string-array>
+</resources>
