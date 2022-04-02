@@ -10,7 +10,7 @@
             android:title="RamadanCalender" />
         <item
             android:id="@+id/nav_gallery"
-            android:icon="@drawable/king"
+            android:icon="@drawable/frm"
             android:title="AllahNames" />
         <item
             android:id="@+id/nav_slideshow"
